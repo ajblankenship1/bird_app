@@ -1,0 +1,16 @@
+{
+  "name": "bird_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "love_birds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0",
+    "sync-fetch": "^0.5.2"
+  }
+}
